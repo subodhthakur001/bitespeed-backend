@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+.env.test
+Dockerfile
+docker-compose.yml
+jest.config.js
+tests
+ 
